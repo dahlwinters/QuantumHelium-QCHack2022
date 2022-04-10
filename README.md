@@ -1,7 +1,7 @@
 # QuantumHelium-QCHack2022
 
 # Community Organization Over a Quantum-Optimized Helium Network
-A submission to the Amazon Braket challenge for QC Hack 2022:
+A submission to the 24-hour Amazon Braket challenge for QC Hack 2022:
 Quantum Optimization of the Helium Network for the Denver Area
 
 ## Problem Description
@@ -33,7 +33,7 @@ QPU through Amazon Braket. It yielded an improved modularity result
 (0.44691752481705127) over the classical implementation (0.46611572091086173).
 
 The community breakdown into 5 subcommunities is shown below.
-![D-Wave Advantage QPU Hybrid Result](output/2022-04-10 13 01 33_HNTDenver_DwaveQBSolv_hybrid_5_comm_modu_0.4469.png)
+![D-Wave Advantage QPU Hybrid Result](https://github.com/dahlwinters/QuantumHelium-QCHack2022/blob/main/output/2022-04-10%2013%2001%2033_HNTDenver_DwaveQBSolv_hybrid_5_comm_modu_0.4469.png)
 
 ## Instructions on Running the Project
 
